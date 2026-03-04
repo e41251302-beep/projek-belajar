@@ -1,1 +1,1 @@
-print("Tes push kedua!");
+void main() { print('Halo Dart Super CLI'); }
